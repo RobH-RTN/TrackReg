@@ -1,5 +1,5 @@
 /* To create employee table with PRIMARY KEY */ 
-
+USE parking_tracker_app;
 CREATE TABLE employees (
       employee_id INT NOT NULL PRIMARY KEY AUTO_INCREMENT
     , permit_number INT NOT NULL
